@@ -1,0 +1,25 @@
+{
+   "title":"[Yagino Mekichi] I Love Love Love Love Love Love Love Love You",
+   "description":"",
+   "author":"Yagino Mekichi",
+   "artist":"Yagino Mekichi",
+   "cover":"https://i.imgur.com/l7wM34N.jpg",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/rBRy4Sv"
+         },
+         "last_updated":1624606143,
+         "title":"I Love Love Love Love Love Love Love Love You ver. 1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/0EuL4Oq"
+         },
+         "last_updated":1624606143,
+         "title":"I Love Love Love Love Love Love Love Love You ver. 2",
+         "volume":"2"
+      }
+   }
+}
